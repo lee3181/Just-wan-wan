@@ -1,1 +1,9 @@
-iptv.list
+# (my)
+# > Acfun
+DOMAIN-SUFFIX,acfun.cn,PROXY
+DOMAIN-SUFFIX,aixifan.com,PROXY
+# > bilibili
+DOMAIN-SUFFIX,biliapi.net,PROXY
+DOMAIN-SUFFIX,bilibili.com,PROXY
+DOMAIN-SUFFIX,bilivideo.com,PROXY
+DOMAIN-SUFFIX,hdslb.com,PROXY
